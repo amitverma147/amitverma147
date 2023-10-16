@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm AMIT VERMA</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<a href="[![An image of @amitverma147's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitverma147)](https://holopin.io/@amitverma147)
+    "></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitverma147&label=Profile%20views&color=0e75b6&style=flat" alt="amitverma147" /> </p>
 
