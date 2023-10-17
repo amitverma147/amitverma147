@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Web Development<br>🤝 I’m looking for help with Web3 Technology<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Java , C , Python <br>
+🔭 I’m currently working on Frontend Web Development<br>🤝 I’m looking for help with Web3 Technology<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Java , C , Python <be>
+<a href='https://holopin.io/@amitverma147'>
+    <img src='https://holopin.me/amitverma147'/>
+</a>
 
 
 ## 🌐 Socials:
@@ -21,6 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=amitverma147&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href='https://holopin.io/@amitverma147'>
-    <img src='https://holopin.me/amitverma147'/>
-</a>
+
